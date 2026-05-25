@@ -45,3 +45,4 @@ Para encender la API y validar el código escrito, se siguen estos pasos:
    FastAPI genera documentación de forma automática. Al ingresar a la dirección 
    http://127.0.0.1:8000/docs se abre una interfaz gráfica interactiva que 
    permite probar todas las rutas creadas sin escribir código adicional.
+   
